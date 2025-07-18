@@ -13,4 +13,4 @@ JavaScript: Simple button that triggers an alert message on click.
 Technologies Used
 1. HTML5
 2. CSS3
-3. JavaScript# Nitish-9
+3. JavaScript
